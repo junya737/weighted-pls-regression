@@ -4,6 +4,9 @@
 
 This project implements Weighted Partial Least Squares (WPLS) Regression, a method that incorporates sample weights into the standard PLS regression model.
 
+**Author:** Junya Ihira  
+**Release Date:** December 27, 2024  
+
 ## Motivation
 
 The default PLSRegression implementation in scikit-learn does not support sample weights. I couldn't also find Python implementations with sample weights.
@@ -43,3 +46,4 @@ For questions, suggestions, or bug reports, please feel free to:
 - Email me (junyaihira[@]gmail.com).
 
 Your feedback is highly appreciated!
+
